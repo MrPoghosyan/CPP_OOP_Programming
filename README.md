@@ -22,9 +22,9 @@ A collection of C++ projects, Object-Oriented Programming exercises, and mathema
 ### Mathematical & Algorithmic Problems
 
 * [Math Assignments](./MathAssignments_Cpp)
-* [BigInt](./bigint)
-* [PolySet](./polyset)
-* [Vector2](./vect2)
+* [BigInt](./BigInt)
+* [PolySet](./PolySet)
+* [Vector2](./Vector2)
 
 ## Topics
 
