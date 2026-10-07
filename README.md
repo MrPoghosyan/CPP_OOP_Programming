@@ -24,7 +24,7 @@ A collection of C++ projects, Object-Oriented Programming exercises, and mathema
 * [Math Assignments](./MathAssignments_Cpp)
 * [BigInt](./bigint)
 * [PolySet](./polyset)
-* [Vect2](./vect2)
+* [Vector2](./vect2)
 
 ## Topics
 
@@ -74,9 +74,9 @@ Individual projects contain their own `Makefile` when compilation through `make`
 ├── C++_Module_08/
 ├── C++_Module_09/
 ├── MathAssignments_Cpp/
-├── bigint/
-├── polyset/
-├── vect2/
+├── Bigint/
+├── PolySet/
+├── Vector2/
 └── README.md
 ```
 
